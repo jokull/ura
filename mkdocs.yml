@@ -4,4 +4,5 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
 theme:
+  name: material
   font: false
