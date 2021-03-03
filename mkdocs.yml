@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Umhverfisráðuneyti alþýðunnar
+repo_url: https://github.com/jokull/uar
+theme:
+  icon:
+    repo: fontawesome/brands/git-alt
+theme:
+  font: false
