@@ -1,4 +1,4 @@
-# Umhverfisráðuneyti alþýðunnar
+# Stefnuyfirlýsing
 
 Umhverfisráðuneyti alþýðunnar er ætlað að byggja upp samstöðu meðal alþýðu manna um aðgerðir í umhverfismálum sem byggja á samfélagslegu réttlæti.
 

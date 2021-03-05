@@ -1,7 +1,7 @@
 site_name: Umhverfisráðuneyti alþýðunnar
 repo_url: https://github.com/jokull/ura
 theme:
+  name: material
+  language: is
   icon:
     repo: fontawesome/brands/git-alt
-theme:
-  name: material
